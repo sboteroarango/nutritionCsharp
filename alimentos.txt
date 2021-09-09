@@ -1,0 +1,12 @@
+arepa,3,150
+huevo,6,63
+pan,3,100
+maní,10,237
+leche,7,110
+cuajada,5,70
+carne,26,250
+arroz,3,130
+jamón,3,22
+aguacate,1,167
+manzana,0,60
+papa,4,160
